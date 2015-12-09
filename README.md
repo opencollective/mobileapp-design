@@ -10,21 +10,26 @@ To make it easier to know where is what you're probably looking for, I made a ma
 design/ 
 ├── assets/
 │   ├── avatars/
+│   ├── backgrounds/
+│   │   └── I've been going crazy with background gradients, so they get a folder of their own.
 │   ├── fonts/
 │   │   ├── icon-font/
-│   │   │    ├── webfont files & docs for the iconfont
+│   │   │   └── webfont files & docs for the iconfont
 │   │   └── proxima nova/
 │   │       ├── desktop/
-│   │       │    ├── .OTF Files
+│   │       │    └── .OTF Files
 │   │       └── webfont/
 │   │            └── self explanatory
-│   ├── icons/
+│   └── icons/
 │       └── svg/
 │           └── all the icons/illustrations
 ├── masters/
 │   └── All the source .PSD, .SVG, .AI, etc
-└── screens/
-    ├── onboarding/
-    ├── tour/
-    └── general .PNG user flow screens here
+├── screens/
+│   ├── onboarding/
+│   ├── tour/
+│   └── general .PNG user flow screens here
+└── webapp/
+    ├── desktop/
+    └── mobile/
 ```
