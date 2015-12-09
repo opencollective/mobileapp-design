@@ -12,19 +12,19 @@ design/
 │   ├── avatars/
 │   ├── fonts/
 │   │   ├── icon-font/
-│   │   │    ├── webfont files & docs for the iconfont
+│   │   │    ├── _webfont files & docs for the iconfont_
 │   │   └── proxima nova/
 │   │       ├── desktop/
-│   │       │    ├── .OTF Files
+│   │       │    ├── _.OTF Files_
 │   │       └── webfont/
-│   │            ├── self explanatory
+│   │            └── _self explanatory_
 │   ├── icons/
 │       └── svg/
-│           └── all the icons/illustrations
+│           └── _all the icons/illustrations_
 ├── masters/
-│   └── All the source .PSD, .SVG, .AI, etc
+│   └── _All the source .PSD, .SVG, .AI, etc_
 └── screens/
     ├── onboarding/
     ├── tour/
-    └── general .PNG user flow screens here
+    └── _general .PNG user flow screens here_
 ```
