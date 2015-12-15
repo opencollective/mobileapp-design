@@ -28,8 +28,9 @@ build/Release
 node_modules
 
 # InVision Sync stuff
-hola@maruma.ru
 .localaccount.json
 masters/assets
 masters/screens
+.DS_Store
+
 
