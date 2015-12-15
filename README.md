@@ -1,9 +1,16 @@
 # Design for Mobile app
 Here is where all the graphic assets for the mobile app live happily to make the workflow more efficient since all is now in GitHub.
 
+## InVision Sync
+_Habemus_ autoupdated inVision protoypes
+
+Mobile App:      https://invis.io/2G4YDI8ED
+Mobile Web App:  https://invis.io/Z45BB5CVX
+Desktop Web App: https://invis.io/ZK5BB4XGB
+
 
 ## File Structure
-To make it easier to know where is what you're probably looking for, I made a map to help you figure out what was going on in my brain:
+Thank inVision for this folder structure
 
 ```
 mobileapp/ 
@@ -42,8 +49,3 @@ assets/
         └── svg/
             └── all the icons/illustrations
 ```
-
-
-## InVision Sync
-Yes! We have automagical sync and update in InVision! 
-You may see the project here https://invis.io/2G4YDI8ED
