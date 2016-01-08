@@ -39,71 +39,71 @@
 }
 
 .icon-upload:before {
-  content: "\61";
+  content: "a";
 }
 .icon-up:before {
-  content: "\62";
+  content: "b";
 }
 .icon-right:before {
-  content: "\63";
+  content: "c";
 }
 .icon-add:before {
-  content: "\64";
+  content: "d";
 }
 .icon-approved:before {
-  content: "\65";
+  content: "e";
 }
 .icon-down:before {
-  content: "\69";
+  content: "f";
 }
 .icon-left:before {
-  content: "\6a";
+  content: "g";
 }
 .icon-pending:before {
-  content: "\6c";
+  content: "h";
 }
 .icon-rejected:before {
-  content: "\70";
+  content: "i";
 }
 .icon-loading:before {
-  content: "\66";
+  content: "j";
 }
 .icon-oc-icon:before {
-  content: "\67";
+  content: "k";
 }
 .icon-upload-photo:before {
-  content: "\68";
+  content: "l";
 }
 .icon-camera:before {
-  content: "\6b";
+  content: "m";
 }
 .icon-gear:before {
-  content: "\6d";
+  content: "n";
 }
 .icon-user:before {
-  content: "\6e";
+  content: "o";
 }
 .icon-password:before {
-  content: "\6f";
+  content: "p";
 }
 .icon-mail:before {
-  content: "\71";
+  content: "q";
 }
 .icon-link:before {
-  content: "\72";
+  content: "r";
 }
 .icon-facebook:before {
-  content: "\73";
+  content: "s";
 }
 .icon-expense:before {
-  content: "\74";
+  content: "t";
 }
 .icon-embed:before {
-  content: "\75";
+  content: "u";
 }
 .icon-twitter:before {
-  content: "\76";
+  content: "v";
 }
 .icon-revenue:before {
-  content: "\77";
+  content: "w";
 }
